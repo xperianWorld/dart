@@ -35,13 +35,13 @@ class Bonni extends Person {
   
   @override
   void showName() {
-    // TODO: implement showName
+    
     print("only last name is displayed " +this.lastName);
   }
 
   @override
   void showNationality() {
-    // TODO: implement showNationality
+   
     print("India");
   }
 }
